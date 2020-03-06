@@ -1,0 +1,4 @@
+file '/home/john/msg/manim_tutorial/media/videos/tutorial/480p15/partial_movie_files/lat/00000.mp4'
+file '/home/john/msg/manim_tutorial/media/videos/tutorial/480p15/partial_movie_files/lat/00001.mp4'
+file '/home/john/msg/manim_tutorial/media/videos/tutorial/480p15/partial_movie_files/lat/00002.mp4'
+file '/home/john/msg/manim_tutorial/media/videos/tutorial/480p15/partial_movie_files/lat/00003.mp4'

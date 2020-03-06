@@ -1,0 +1,2 @@
+file '/home/john/msg/manim_tutorial/media/videos/tutorial/1440p60/partial_movie_files/lattice/00000.mp4'
+file '/home/john/msg/manim_tutorial/media/videos/tutorial/1440p60/partial_movie_files/lattice/00001.mp4'

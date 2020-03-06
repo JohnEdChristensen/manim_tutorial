@@ -1,0 +1,6 @@
+file '/home/john/msg/manim_tutorial/videos/tutorial/480p15/partial_movie_files/lattice/00000.mp4'
+file '/home/john/msg/manim_tutorial/videos/tutorial/480p15/partial_movie_files/lattice/00001.mp4'
+file '/home/john/msg/manim_tutorial/videos/tutorial/480p15/partial_movie_files/lattice/00002.mp4'
+file '/home/john/msg/manim_tutorial/videos/tutorial/480p15/partial_movie_files/lattice/00003.mp4'
+file '/home/john/msg/manim_tutorial/videos/tutorial/480p15/partial_movie_files/lattice/00004.mp4'
+file '/home/john/msg/manim_tutorial/videos/tutorial/480p15/partial_movie_files/lattice/00005.mp4'
